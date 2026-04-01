@@ -1,0 +1,7 @@
+Downloaded to temp path: C:\Users\KARANB~1\AppData\Local\Temp\playwright-artifacts-Tqlbfe\21fb9cb9-daf6-4bfe-b545-ccd60a852a3a
+Before: Apple
+File write completed
+After: pomegranate
+Before: 299
+File write completed
+After: 600

@@ -1,0 +1,14 @@
+[{
+    "userEmail" : "karanb@yopmail.com",
+    "password" : "Test@123",
+    "productName" : "ZARA COAT 3",
+    "countrytext" : "ind",
+    "countryname" : " India"
+},
+{
+    "userEmail" : "aman555@yopmail.com",
+    "password" : "Test@123",
+    "productName" : "ADIDAS ORIGINAL",
+    "countrytext" : "af",
+    "countryname" : " Afghanistan"
+}]

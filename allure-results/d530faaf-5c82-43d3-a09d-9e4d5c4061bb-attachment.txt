@@ -1,0 +1,13 @@
+Let's Shop
+[
+  'Automation 8',
+  'Automation 8',
+  'ADIDAS ORIGINAL',
+  'ZARA COAT 3',
+  'iphone 13 pro'
+]
+ | 6979bbf3c941646b7abf5f58 | 
+order id found in order history
+6979bbf3c941646b7abf5f58
+true
+test completed

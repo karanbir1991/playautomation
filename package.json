@@ -1,0 +1,31 @@
+{
+  "name": "playwright-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "regression": "node set-report-dir.js && npx playwright test",
+    "Smoke": "npx playwright test --grep @Smoke",
+    "Sanity": "node set-report-dir.js && npx playwright test --grep @Sanity"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@faker-js/faker": "^10.3.0",
+    "@playwright/test": "^1.57.0",
+    "@types/node": "^25.0.2",
+    "allure-playwright": "^3.4.5",
+    "cross-env": "^10.1.0"
+  },
+  "dependencies": {
+    "dotenv": "^17.3.1",
+    "exceljs": "^4.4.0",
+    "mysql2": "^3.18.2",
+    "zod": "^4.3.6"
+  },
+  "directories": {
+    "test": "tests"
+  }
+}

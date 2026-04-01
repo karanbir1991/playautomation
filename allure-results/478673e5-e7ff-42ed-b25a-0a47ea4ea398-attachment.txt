@@ -1,0 +1,12 @@
+[
+  'Automation 8',
+  'Automation 8',
+  'ADIDAS ORIGINAL',
+  'ZARA COAT 3',
+  'iphone 13 pro'
+]
+ | 6979b8afc941646b7abf4de7 | 
+order id found in order history
+6979b8afc941646b7abf4de7
+true
+test completed
