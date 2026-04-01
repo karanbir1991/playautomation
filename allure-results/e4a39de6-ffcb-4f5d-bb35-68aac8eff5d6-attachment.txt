@@ -1,7 +1,0 @@
-token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTIwMDc4MTUwMDhmNmE5MDkyZjczZGUiLCJ1c2VyRW1haWwiOiJrYXJhbmJAeW9wbWFpbC5jb20iLCJ1c2VyTW9iaWxlIjo5NDY0MzYxMzM0LCJ1c2VyUm9sZSI6ImN1c3RvbWVyIiwiaWF0IjoxNzY5NTg0ODkzLCJleHAiOjE4MDExNDI0OTN9.Nryel3W4RAexsHz4vYvkrgyDFQ18fxf7gMa0MM9PTQk
-201
-{
-  orders: [ '6979b8fdc941646b7abf507f' ],
-  productOrderId: [ '6960eac0c941646b7a8b3e68' ],
-  message: 'Order Placed Successfully'
-}

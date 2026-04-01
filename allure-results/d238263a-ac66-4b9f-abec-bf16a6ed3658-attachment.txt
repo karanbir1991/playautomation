@@ -1,8 +1,0 @@
-token = eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2OTIwMDc4MTUwMDhmNmE5MDkyZjczZGUiLCJ1c2VyRW1haWwiOiJrYXJhbmJAeW9wbWFpbC5jb20iLCJ1c2VyTW9iaWxlIjo5NDY0MzYxMzM0LCJ1c2VyUm9sZSI6ImN1c3RvbWVyIiwiaWF0IjoxNzY5NTg0NzI2LCJleHAiOjE4MDExNDIzMjZ9.Jz3TrSdUTQPeJl2apB57fQLDlT2CXdPRBYmstifCrH4
-201
-{
-  orders: [ '6979b856c941646b7abf4c57' ],
-  productOrderId: [ '6960eac0c941646b7a8b3e68' ],
-  message: 'Order Placed Successfully'
-}
- You have No Orders to show at this time. Please Visit Back Us 
