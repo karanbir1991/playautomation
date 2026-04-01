@@ -15,7 +15,7 @@ const config=({
 
   reporter: [
   ['list'],
-  [''],
+  ['github'],
   ['html', { open: 'never' }]
 ],
 
